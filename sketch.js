@@ -310,6 +310,5 @@ function switchScreenState() {
 function startSimulation(){
   
   preload();
-  delay(500);
   switchScreenState();
 }
