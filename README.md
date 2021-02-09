@@ -1,7 +1,7 @@
 # MI Kursprojekt von Kurzweg Jan - Interior Designer
 In order to make virtual and augmented reality tangible in a browser application, the **Interior Designer** puts furnishings such as a table or chair in a 3D simulated room. The room can be freely selected by the user.
 The pieces of furniture can then be moved by holding down the middle mouse button, rotating them around the Y-axis with the left mouse button and rotating them around the X-axis with the right mouse button.
-## Installation
+## Hosting
 The easiest way to use the program is to simply call up the hosted program under the following link.
 https://editor.p5js.org/JanK/present/dka6xqR2Q  or  https://jan291997.github.io/MI_Kursprojekt_Kurzweg_Jan/
 Alternatively, the program can be opened in the Processing IDE. You have to install the p5.js mode in Processing with *Sketch -> library import -> modes -> p5js mode* and activate it in the editor at the top right.
